@@ -1,5 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm <a href="https://www.vedaangsharma.dev">Vedaang Sharma</a></h1>
+<!-- <h1 align="center">Hi 👋, I'm <a href="https://www.vedaangsharma.dev">Vedaang Sharma</a></h1> -->
+<h1 align="center">Hi 👋, I'm Vedaang Sharma</h1>
 <h3 align="center">💻 BCA Student | 🤖 AI Enthusiast | 🌐 Full Stack Developer | 🚀 Innovator</h3>
 
 <p align="center">
@@ -15,7 +16,7 @@
 ---
 
 ### 👨‍💻 Projects & Portfolio
-🔗 Explore all my work at **[vedaangsharma.dev](https://www.vedaangsharma.dev)**  
+ 
 🧠 Highlight Project: *PostureSense* – an AI-powered smart mirror for real-time exercise feedback  
 
 📄 Check out my **[Resume](https://drive.google.com/file/d/1k5nppU35fQF7ZZvw5mkdD7U_IwTZLF-7/view?usp=sharing)**
@@ -39,9 +40,9 @@ Ask me about:
   <a href="mailto:vedaangsharma2006@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
-  <a href="https://www.vedaangsharma.dev" target="blank">
+  <!-- <a href="https://www.vedaangsharma.dev" target="blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 ---

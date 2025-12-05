@@ -82,7 +82,7 @@ I am a **BCA student specializing in Cloud Computing & Full Stack Development** 
 <div align="center">
   
 
-![](https://nirzak-streak-stats.vercel.app/?user=gtathelegend&theme=shadow_blue&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=gtathelegend&theme=shadow_blue&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies

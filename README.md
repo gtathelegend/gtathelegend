@@ -82,7 +82,13 @@ I am a **BCA student specializing in Cloud Computing & Full Stack Development** 
 <div align="center">
   
 
-![](https://streak-stats.demolab.com/?user=gtathelegend&theme=shadow_blue&hide_border=false)<br/>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=gtathelegend&theme=shadow_blue&hide_border=false"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
 
 
 ## 🏆 GitHub Trophies

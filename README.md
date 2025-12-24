@@ -81,14 +81,7 @@ I am a **BCA student specializing in Cloud Computing & Full Stack Development** 
 # 📊 GitHub Stats:
 <div align="center">
   
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=gtathelegend&theme=shadow_blue&hide_border=false"
-    alt="GitHub Streak Stats"
-  />
-</div>
-
+![](https://streak-stats.demolab.com?user=gtathelegend&theme=shadow_blue&hide_border=false)
 
 
 ## 🏆 GitHub Trophies
@@ -97,6 +90,6 @@ I am a **BCA student specializing in Cloud Computing & Full Stack Development** 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-[![](https://visitcount.itsvg.in/api?id=gtathelegend&icon=3&color=13)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=gtathelegend&icon=3&color=13)](https://visitcount.itsvg.in)
 
 </div>

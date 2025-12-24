@@ -90,6 +90,6 @@ I am a **BCA student specializing in Cloud Computing & Full Stack Development** 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-![](https://visitcount.itsvg.in/api?id=gtathelegend&icon=3&color=13)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=gtathelegend&icon=3&color=13)
 
 </div>

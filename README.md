@@ -16,6 +16,9 @@
   <a href="https://github.com/gtathelegend">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
+  <a href="https://vedaangsharma.dev">
+    <img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=gtathelegend&style=for-the-badge&color=9B59B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
@@ -287,6 +290,18 @@ I build production-ready systems at the intersection of **AI, Blockchain, and Fu
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gtathelegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gtathelegend/gtathelegend/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gtathelegend/gtathelegend/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gtathelegend/gtathelegend/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">

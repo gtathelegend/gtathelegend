@@ -95,7 +95,9 @@ I build production-ready systems at the intersection of **AI, Blockchain, and Fu
       <a href="https://github.com/gtathelegend/Posture-Sense">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>&nbsp;
-      <img src="https://img.shields.io/badge/SSRN_Paper-2E8B57?style=flat-square&logo=academia&logoColor=white" />
+      <a href="">
+        <img src="https://img.shields.io/badge/SSRN_Paper-2E8B57?style=flat-square&logo=academia&logoColor=white" />
+      </a>
       <br/><br/>
       Real-time posture analysis using <b>MediaPipe</b> with 33 landmark tracking & trigonometric joint angle classification. Flask backend with MJPEG streaming + SSE.<br/><br/>
       <b>Published</b> @ SSRN — IO: Productivity, Innovation & Technology eJournal Vol 17, Issue 220 · Dec 2025<br/><br/>
@@ -265,14 +267,14 @@ I build production-ready systems at the intersection of **AI, Blockchain, and Fu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
-
+<!-- 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gtathelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtathelegend&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-</div>
+</div> -->
 
 <div align="center">
 

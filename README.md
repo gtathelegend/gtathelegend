@@ -1,95 +1,294 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vedaang%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code%20&%20Cloud&descAlignY=55&descAlign=50" alt="Vedaang Sharma Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,50:9B59B6,100:C084FC&height=250&section=header&text=Vedaang%20Sharma&fontSize=75&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI%20Systems&descAlignY=60&descAlign=50&descSize=24&descColor=rgba(255,255,255,0.88)" alt="Header" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Student+%E2%98%81%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;MERN+Stack+%7C+Flutter+%7C+Python" alt="Typing Animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=9B59B6&center=true&vCenter=true&width=750&lines=Multi-Agent+AI+Developer+%F0%9F%A4%96;Blockchain+%26+Web3+Engineer+%E2%9B%93;Full+Stack+Developer+%E2%80%94+MERN+%7C+Flutter+%F0%9F%92%BB;Published+Researcher+%40+SSRN+2025+%F0%9F%93%84;Building+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vedaangsharma2006">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:vedaangsharma2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/gtathelegend">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gtathelegend&style=for-the-badge&color=9B59B6&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 About Me
+
+**BCA student** @ Vivekananda Global University *(Cloud Computing & Full Stack — GPA: **9.8 / 10**)* · Jaipur, India
+
+I build production-ready systems at the intersection of **AI, Blockchain, and Full Stack Engineering** — from multi-agent LLM pipelines and smart contracts to real-time mobile apps with WebSocket backends.
+
+- ⛓️ Architected **9 Algorand smart contracts** with RBAC, IPFS hybrid storage & ARC-28 audit logging for decentralized healthcare
+- 🤖 Built a **multi-agent LLM tutoring system** using Ollama 120B, Whisper voice AI & Three.js 3D characters
+- 📄 **Published researcher** — *"PostureSense: AI-Powered Smart Mirror"* @ SSRN, December 2025
+- 🏢 **Full Stack Intern** @ PetsGo & PetsDoor Pvt. Ltd. *(Nov 2025 – Jan 2026)*
+- 🔬 Currently exploring: **LangChain agents**, **Google Cloud ADK**, and **distributed system design**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏗️ What I Build
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 AI & Multi-Agent</h3>
+      Multi-agent LLM pipelines<br/>
+      Computer vision (MediaPipe · OpenCV)<br/>
+      Voice AI with Whisper<br/>
+      LangChain · Google Cloud ADK
+    </td>
+    <td align="center" width="33%">
+      <h3>⛓️ Blockchain & Web3</h3>
+      Algorand smart contracts (Puya/TEAL)<br/>
+      IPFS hybrid off-chain storage<br/>
+      ARC-28 compliant audit logging<br/>
+      Cross-contract orchestration
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Full Stack & Cloud</h3>
+      MERN · FastAPI · Flask · Flutter<br/>
+      Real-time WebSocket systems<br/>
+      PostgreSQL · Redis · MongoDB<br/>
+      Docker · Kubernetes · AWS · Azure
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Flagship Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⛓️ Aegis Care</h3>
+      <a href="https://aegis-care.vedaangsharma.dev">
+        <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/gtathelegend/Aegis-Care">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Decentralized healthcare platform on <b>Algorand</b> — 9 smart contracts implementing RBAC, medical records, prescriptions & consent-driven access control.<br/><br/>
+      Hybrid <b>IPFS + blockchain</b> storage — encrypted records off-chain (CID), access enforced on-chain. ARC-28 compliant audit logging across all system actors.<br/><br/>
+      <code>Algorand</code> <code>Python (Puya)</code> <code>TEAL</code> <code>IPFS</code> <code>TypeScript</code> <code>Node.js</code> <code>AlgoKit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 PostureSense <sub><sup>📄 Published</sup></sub></h3>
+      <a href="https://posture-sense.vedaangsharma.dev">
+        <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/gtathelegend/Posture-Sense">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>&nbsp;
+      <img src="https://img.shields.io/badge/SSRN_Paper-2E8B57?style=flat-square&logo=academia&logoColor=white" />
+      <br/><br/>
+      Real-time posture analysis using <b>MediaPipe</b> with 33 landmark tracking & trigonometric joint angle classification. Flask backend with MJPEG streaming + SSE.<br/><br/>
+      <b>Published</b> @ SSRN — IO: Productivity, Innovation & Technology eJournal Vol 17, Issue 220 · Dec 2025<br/><br/>
+      <code>Python</code> <code>Flask</code> <code>MediaPipe</code> <code>OpenCV</code> <code>PostgreSQL</code> <code>Supabase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 KIDZ-GPT</h3>
+      <a href="https://github.com/gtathelegend/KIDZ-GPT">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Multi-agent AI tutoring system powered by <b>local Ollama 120B LLMs</b> — no cloud dependency, full privacy. Multilingual voice via <b>Whisper</b> with real-time language detection.<br/><br/>
+      3D animated learning characters via <b>Three.js</b> · Redis caching · AI-generated quizzes · Visual learning components<br/><br/>
+      <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Whisper</code> <code>Ollama</code> <code>Redis</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Campus Swap</h3>
+      <a href="https://campus-swap.vedaangsharma.dev">
+        <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/gtathelegend/Campus-Swap">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Full-stack <b>Flutter</b> marketplace for campus second-hand goods — OTP auth with student ID verification, multi-image product listings, real-time <b>WebSocket</b> chat with push notifications.<br/><br/>
+      Provider state management · Service-layer architecture · Supabase backend<br/><br/>
+      <code>Flutter</code> <code>Dart</code> <code>Supabase</code> <code>PostgreSQL</code> <code>WebSockets</code>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Experience
 
 <div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedaangsharma2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedaangsharma2006@gmail.com)
+| Period | Role | Company | Focus |
+|:---:|:---:|:---:|:---|
+| **Nov 2025 – Jan 2026** | Full Stack Dev Intern | **PetsGo & PetsDoor Pvt. Ltd.** | Full-stack features, API integration, UI components, code reviews, testing & deployment on the PetsGO pet-care platform |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👨‍💻 About Me
+## 🛠️ Tech Arsenal
 
-I am a **BCA student specializing in Cloud Computing & Full Stack Development** at Vivekananda Global University, currently maintaining a **9.67 GPA** . I have professional experience building scalable web applications using the **MERN Stack** and currently work as a **Full Stack Development Intern** .
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
 
-* 🔭 **Currently working on:** Enhancing the **PetsGO** pet-care platform .
-* 📄 **Research:** Published author on *"Smart Mirror Application for Exercise"* .
-* ⚡ **Fun fact:** Music is my compiler optimizer—it boosts my debugging speed! 🎧
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_120B-000000?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+</details>
 
-### 💼 Professional Experience
+<details>
+<summary><b>⛓️ Blockchain & Web3</b></summary>
+<br/>
 
-| Period | Role | Company | Key Tech |
-| :--- | :--- | :--- | :--- |
-| **Nov 2025 - Present** | **Full Stack Dev Intern** | *PetsGo & PetsDoor Pvt. Ltd.* | React, Node.js, API Integration |
-| **July 2025 - Aug 2025** | **Software Dev Intern** | *SkillCraft Technology* | Python, SQL, REST APIs |
-| **Mar 2025 - Apr 2025** | **C Programming Intern** | *Navodita Infotech* | C, System Logic, Memory Mgmt |
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
----
+</details>
 
-### 🚀 Featured Projects
+<details>
+<summary><b>🌐 Full Stack Development</b></summary>
+<br/>
 
-| **Project** | **Description** | **Tech Stack** |
-| :--- | :--- | :--- |
-| **Posture Sense** <br> *AI Smart Mirror* | Real-time visual/audio feedback for posture correction using body pose detection . | Python, OpenCV, MediaPipe, Flask |
-| **Crypto Tracker** <br> *FinTech Web App* | Real-time cryptocurrency tracking dashboard using WebSocket streams . | React.js, Express.js, WebSockets |
-| **Weather & News** <br> *Mobile App* | Cross-platform app providing real-time weather and global news headlines . | Flutter, Dart |
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 📜 Certifications
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📜 Certifications
 
 <div align="center">
 
-| **Cloud & DevOps** | **Development** | **AI & Data** |
-| :--- | :--- | :--- |
-| ![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure) <br> ![AWS](https://img.shields.io/badge/AWS-Technical_Essentials-FF9900?style=flat-square&logo=amazon-aws) | ![ASP.NET](https://img.shields.io/badge/Microsoft-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet) <br> ![MERN](https://img.shields.io/badge/LinkedIn-MERN_Essentials-0A66C2?style=flat-square&logo=linkedin) <br> ![Node](https://img.shields.io/badge/LinkedIn-RESTful_APIs-0A66C2?style=flat-square&logo=nodedotjs) | ![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency-191919?style=flat-square&logo=anthropic) <br> ![EXIN](https://img.shields.io/badge/EXIN-AI_Essentials-EC1C24?style=flat-square) |
+| | Certification | Issuer | Date |
+|:---:|:---|:---:|:---:|
+| 🤖 | **Engineer AI Agents with Agent Development Kit (ADK)** | Google Cloud | Apr 2026 |
+| 🦜 | **Introduction to LangChain — Python** | LangChain Academy | Apr 2026 |
+| 🌐 | **Full Stack Developer — MERN Stack Master's Program** | Simplilearn | Feb 2026 |
+| ⚙️ | **DevOps Foundations: Continuous Delivery / CI** | LinkedIn Learning | Feb 2026 |
+| 🔒 | **Network Security** | Cisco / Coursera | Jan 2026 |
+| ☁️ | **Cloud Computing Foundation** | EXIN | Dec 2025 |
+| 📦 | **MERN Essential Training** | LinkedIn Learning | Sep 2025 |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Tech Stack:
+## 📄 Publications
+
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white)
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) 
-
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white)
+> 📘 **Posture Sense: AI-Powered Smart Mirror for Real-Time Exercise Feedback and Posture Correction**
+>
+> *Social Science Research Network (SSRN)*
+> IO: Productivity, Innovation & Technology eJournal — **Vol 17, Issue 220 · December 17, 2025**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  
-![](https://streak-stats.demolab.com?user=gtathelegend&theme=shadow_blue&hide_border=false)
 
+<img src="https://github-readme-stats.vercel.app/api?username=gtathelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtathelegend&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gtathelegend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
 
-![](https://visitcount.itsvg.in/api?id=gtathelegend&icon=3&color=13)
+![Streak Stats](https://streak-stats.demolab.com?user=gtathelegend&theme=tokyonight&hide_border=true&border_radius=8)
 
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gtathelegend&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/gtathelegend)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gtathelegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9B59B6,100:6C47FF&height=130&section=footer" alt="Footer" />
 </div>

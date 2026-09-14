@@ -74,6 +74,54 @@ I build production-ready applications, AI-powered products, real-time systems, a
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <h3>🌟 BehaviourSim — End-to-End Synthetic Behavioural Simulation Platform</h3>
+  <p>
+    <a href="https://behavioursim.vedaangsharma.in">
+      <img src="https://img.shields.io/badge/Live_Platform-6C47FF?style=flat-square&logo=vercel&logoColor=white" alt="Live Platform" />
+    </a>&nbsp;
+    <a href="https://pypi.org/project/behaviorsim/">
+      <img src="https://img.shields.io/badge/PyPI-behaviorsim-3776AB?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
+    </a>&nbsp;
+    <a href="https://api.behavioursim.vedaangsharma.in">
+      <img src="https://img.shields.io/badge/Production_API-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="API" />
+    </a>&nbsp;
+    <a href="https://github.com/gtathelegend/BehaviourSim">
+      <img src="https://img.shields.io/badge/Core_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Core Repo" />
+    </a>&nbsp;
+    <a href="https://github.com/gtathelegend/BehaviourSim-API">
+      <img src="https://img.shields.io/badge/API_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="API Repo" />
+    </a>&nbsp;
+    <a href="https://github.com/gtathelegend/BehaviourSim-Web">
+      <img src="https://img.shields.io/badge/Web_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Web Repo" />
+    </a>
+  </p>
+</div>
+
+An open-source ecosystem for generating and working with synthetic sequential behavioural data featuring hidden Markov/HMM state transitions, observable features, and domain presets (Education, Mobile Apps, Healthcare, Finance) for research and development.
+
+```mermaid
+graph LR
+    Web["🌐 Web Platform<br/>(Next.js · React · TS)"] -->|HTTPS / REST| API["🔌 Production API<br/>(FastAPI · Auth · Quotas)"]
+    API -->|Enqueue Jobs| Queue[("🗄️ PostgreSQL<br/>Jobs & History")]
+    Queue -->|Claim Jobs| Worker["⚙️ Async Worker Daemon"]
+    Worker -->|Simulate| Core["🧠 Core Engine<br/>(behaviorsim)"]
+    Worker -->|Persist Results| Queue
+```
+
+**Key Engineering Highlights & Capabilities:**
+- **Core Simulation Engine (`behaviorsim`)**: Synthetic sequential data generation with configurable hidden states, transition matrices, history-dependent overrides, deterministic seeds, and calibration tools. Stable package on [PyPI](https://pypi.org/project/behaviorsim/) *(634 tests passed)*.
+- **Production REST API Platform**: FastAPI service orchestrating asynchronous simulation workflows (`POST 202 Accepted → queued → running → completed`), durable PostgreSQL job claiming, worker recovery handling, and quota accounting *(200+ automated tests)*.
+- **Interactive Web Platform**: Next.js 14 web application featuring a live simulation playground, preset explorer, async job status polling, and visual analytics *(32 tests, strict TypeScript)*.
+- **Production Reliability & Security**: Google/GitHub OAuth, hashed API keys, rate limiting, HttpOnly session cookies, CSRF/CSP protections, and consistent API error envelopes.
+- **Capacity & Operations**: Benchmarked in production-like environments (~96% worker efficiency across 2 processes, stable PostgreSQL queue claiming), automated data retention cleanup, and operational latency/diagnostics tracking.
+
+`Python` `FastAPI` `Next.js` `React` `TypeScript` `PostgreSQL` `SQLAlchemy` `NumPy` `Pandas` `Tailwind CSS` `Docker`
+
+> *Open Source — Authored & maintained by [Vedaang Sharma](mailto:info@vedaangsharma.in). Domain presets generate synthetic data intended for research/development rather than real-world decision-making.*
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">

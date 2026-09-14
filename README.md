@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=9B59B6&center=true&vCenter=true&width=800&lines=Backend+AI+Engineering+Intern+%40+FlyRank+AI+%F0%9F%A4%96;BCA+Student+%40+VGU+(CGPA%3A+9.8%2F10)+%F0%9F%8E%93;Published+Researcher+%40+Springer+Nature+%26+SSRN+%F0%9F%93%84;Full+Stack+%2B+AI+Agents+%2B+IoT+Developer+%F0%9F%92%BB;Building+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=9B59B6&center=true&vCenter=true&width=800&lines=Backend+AI+Engineering+Intern+%40+FlyRank+AI+%F0%9F%A4%96;BCA+Student+%40+VGU+(CGPA%3A+9.6%2F10)+%F0%9F%8E%93;Published+Researcher+%40+Springer+Nature+%26+SSRN+%F0%9F%93%84;Full+Stack+%2B+AI+Agents+%2B+IoT+Developer+%F0%9F%92%BB;Building+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://github.com/gtathelegend">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
-  <a href="https://vedaangsharma.dev">
+  <a href="https://vedaangsharma.in">
     <img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=gtathelegend&style=for-the-badge&color=9B59B6&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer and BCA student at **Vivekananda Global University** *(Cloud Computing & Full Stack Development — CGPA: **9.8 / 10**)* · Gurugram & Jaipur, India.
+Full Stack Developer and BCA student at **Vivekananda Global University** *(Cloud Computing & Full Stack Development — CGPA: **9.6 / 10**)* · Gurugram & Jaipur, India.
 
 I build production-ready applications, AI-powered products, real-time systems, and edge IoT solutions with clean architecture, reliable APIs, and measurable user-facing impact.
 
-- 🤖 **Backend AI Engineering Intern** @ [FlyRank AI](https://flyrank.ai/) *(Jul 2026 – Present)* — Engineering FastAPI-based LLM triage workflows with Pydantic schemas, prompt-injection safeguards, exponential backoff retries, cost tracking & kill-switch controls.
+- 🤖 **Backend AI Engineering Intern** @ [FlyRank AI](https://flyrank.ai/) *(Jul 2026 – Sept 2026)* — Engineered a FastAPI-based AI message-triage workflow with Pydantic schemas, versioned prompt management, prompt-injection safeguards, and production LLM reliability patterns.
 - 💡 **AI Automation Intern** @ [IBM SkillsBuild](https://skillsbuild.org/) *(Jun 2026 – Jul 2026)* — Generative AI, AI Agents, intelligent automation & multi-agent systems architecture.
 - 💼 **Full Stack Developer Intern** @ PetsGo & PetsDoor Pvt. Ltd. *(Nov 2025 – Jan 2026)* — Built full-stack features & APIs for the PetsGO pet-care platform.
 - 📄 **Published Researcher** across Springer Nature & SSRN in AI systems, cognitive computing, and computer vision.
@@ -99,7 +99,7 @@ I build production-ready applications, AI-powered products, real-time systems, a
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 PostureSense <sub><sup>📄 Published</sup></sub></h3>
-      <a href="https://posture-sense.vedaangsharma.dev">
+      <a href="https://posture-sense.vedaangsharma.in">
         <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
       </a>&nbsp;
       <a href="https://github.com/gtathelegend/Posture-Sense">
@@ -127,7 +127,7 @@ I build production-ready applications, AI-powered products, real-time systems, a
   <tr>
     <td width="50%" valign="top">
       <h3>⛓️ Aegis Care</h3>
-      <a href="https://aegis-care.vedaangsharma.dev">
+      <a href="https://aegis-care.vedaangsharma.in">
         <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
       </a>&nbsp;
       <a href="https://github.com/gtathelegend/Aegis-Care">
@@ -152,7 +152,7 @@ I build production-ready applications, AI-powered products, real-time systems, a
   <tr>
     <td width="50%" valign="top" colspan="2">
       <h3>📱 Campus Swap</h3>
-      <a href="https://campus-swap.vedaangsharma.dev">
+      <a href="https://campus-swap.vedaangsharma.in">
         <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
       </a>&nbsp;
       <a href="https://github.com/gtathelegend/Campus-Swap">
@@ -174,7 +174,7 @@ I build production-ready applications, AI-powered products, real-time systems, a
 
 | Period | Role | Organization | Key Contributions |
 |:---:|:---:|:---:|:---|
-| **Jul 2026 – Present** | **Backend AI Engineering Intern** | [FlyRank AI](https://flyrank.ai/) | Engineered FastAPI AI message-triage pipeline with Pydantic schemas, prompt safety, and production LLM reliability patterns (exponential backoff, retries, jitter, cost logging, kill-switch). Evaluated pipeline across 12 real cases with 52 automated tests. |
+| **Jul 2026 – Sept 2026** | **Backend AI Engineering Intern** | [FlyRank AI](https://flyrank.ai/) | Engineered a FastAPI-based AI message-triage workflow with strict Pydantic schemas, versioned prompt management, prompt-injection safeguards, and production LLM reliability patterns (timeout handling, retries with exponential backoff & jitter, response validation, usage/cost logging, kill-switch controls, stub-mode support). Evaluated pipeline against 12 real cases (75.0% category, 66.7% urgency, 58.3% exact-match accuracy) with 52 automated tests. |
 | **Jun 2026 – Jul 2026** | **AI Automation & Intelligent Solutions Intern** | [IBM SkillsBuild](https://skillsbuild.org/) | Selected for AICTE–IBM SkillsBuild internship focused on Generative AI, AI Agents, intelligent automation, and multi-agent system architectures. |
 | **Nov 2025 – Jan 2026** | **Full Stack Development Intern** | PetsGo & PetsDoor Pvt. Ltd. | Developed frontend & backend features, integrated APIs and databases for the PetsGO pet-care platform, and participated in testing, debugging & deployments. |
 
@@ -283,6 +283,7 @@ I build production-ready applications, AI-powered products, real-time systems, a
 
 | | Certification | Issuer | Issued Date |
 |:---:|:---|:---:|:---:|
+| ☁️ | **AWS Cloud Quest: Solutions Architect** | Amazon Web Services | Sep 2026 |
 | 🤖 | [**Engineer AI Agents with Agent Development Kit (ADK)**](https://www.credly.com/badges/85fe8c23-5ddd-4b29-9507-454d155d9c04/linked_in_profile) | Google Cloud | Apr 2026 |
 | 🦜 | [**Introduction to LangChain (Python)**](https://academy.langchain.com/certificates/eay5uhdc06) | LangChain Academy | Apr 2026 |
 | 🌐 | [**Full Stack Developer — MERN Stack Master's Program**](https://success.simplilearn.com/d6273a76-248c-4358-bde2-466980147d27) | Simplilearn | Feb 2026 |

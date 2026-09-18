@@ -150,7 +150,20 @@ I build production-ready applications, AI-powered products, real-time systems, a
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
+      <h3>🎬 POP — AI Movie Insights</h3>
+      <a href="https://pop.vedaangsharma.in/">
+        <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/gtathelegend/AI-Movie-Insight-Builder">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Cinematic AI-powered movie insight platform that combines movie metadata, real audience review evidence, and evidence-grounded AI analysis to explore audience sentiment, themes, opinion clusters, and character discussions without fabricating reviews.<br/><br/>
+      Engineered with <b>Next.js App Router</b> and <b>TypeScript</b>, featuring dual metadata retrieval via <b>OMDb & TMDb APIs</b> with a <b>Cheerio IMDb scraping fallback</b>, structured <b>OpenRouter</b> AI synthesis validated by <b>Zod</b> schemas, real-time <b>Server-Sent Events (SSE)</b> progress streaming, two-tier caching, and an accessible, responsive UI with <b>GSAP</b> and <b>Framer Motion</b> animations.<br/><br/>
+      <code>Next.js</code> <code>TypeScript</code> <code>OpenRouter</code> <code>TMDb API</code> <code>OMDb API</code> <code>Zod</code> <code>Framer Motion</code> <code>GSAP</code> <code>Cheerio</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>📱 Campus Swap</h3>
       <a href="https://campus-swap.vedaangsharma.in">
         <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />

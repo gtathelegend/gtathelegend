@@ -139,14 +139,17 @@ I build production-ready applications, AI-powered products, real-time systems, a
       <code>Algorand</code> <code>IPFS</code> <code>Python (Puya)</code> <code>TEAL</code> <code>TypeScript</code> <code>Node.js</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 KIDZ-GPT</h3>
-      <a href="https://github.com/gtathelegend/KIDZ-GPT">
+      <h3>🌐 Portfolio Platform</h3>
+      <a href="https://vedaangsharma.in">
+        <img src="https://img.shields.io/badge/Live_Demo-6C47FF?style=flat-square&logo=vercel&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/gtathelegend/Vedaang-Sharma-Portfolio">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      Full-stack multi-agent AI tutoring platform using <b>React</b>, <b>FastAPI</b>, <b>Ollama</b>, and Llama 3 70B for personalized educational assistance.<br/><br/>
-      Multilingual voice via <b>Whisper</b>, 3D interactive learning experiences with <b>Three.js</b>, Redis caching, and AI-generated quizzes.<br/><br/>
-      <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code> <code>Whisper</code> <code>Redis</code> <code>Three.js</code>
+      Full-stack, CMS-driven portfolio platform with an interactive AI assistant (<code>/ask</code>), automated SEO/AEO/GEO engine with <code>/llms.txt</code> feeds, secure admin dashboard, and production-grade security hardening.<br/><br/>
+      Engineered with <b>Next.js 15 App Router</b>, <b>React 19</b>, <b>Tailwind CSS 4</b>, and <b>Supabase</b> (PostgreSQL, Auth, Storage) — featuring <b>Cloudflare Turnstile</b> bot defense, <b>Upstash Redis</b> distributed rate limiting, single-admin edge authorization, and magic-byte file validation.<br/><br/>
+      <code>Next.js 15</code> <code>React 19</code> <code>Tailwind CSS 4</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Redis</code> <code>Cloudflare</code>
     </td>
   </tr>
   <tr>
